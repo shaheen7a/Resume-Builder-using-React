@@ -1,6 +1,6 @@
 # Resume Builder using React JS
 
-![Resume Builder ](./styles/web-view01.png)
+![Resume Builder ](./src/web-view01.png)
 
 
 ## Welcome! 👋
